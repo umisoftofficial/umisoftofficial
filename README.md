@@ -18,8 +18,6 @@ Currently, I’m diving into AI and Machine Learning and specialising in **Data 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/DevExpress-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tor%20Browser-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
@@ -40,11 +38,11 @@ Currently, I’m diving into AI and Machine Learning and specialising in **Data 
 
 ### 📫 Reach out to Me:
  
-- **Whatsapp Chat**: [Whatsapp Chat](wa.me/923000680158)  
-- **Email**: [Email](umisofts@gmail.com)  
-- **Linkedin**: [Visit Linkedin Profile](linkedin.com/in/umisoft) 
-- **Facebook**: [Visit Facebook Profile](facebook.com/umisoftofficial) 
-- **Instagram**: [Visit Instagram Profile](instagram.com/umisoft.official) 
+- **WhatsApp Chat**: [Chat on WhatsApp](https://wa.me/923000680158)  
+- **Email**: [umisofts@gmail.com](mailto:umisofts@gmail.com)  
+- **LinkedIn**: [Visit LinkedIn Profile](https://www.linkedin.com/in/umisoft)  
+- **Facebook**: [Visit Facebook Profile](https://www.facebook.com/umisoftofficial)  
+- **Instagram**: [Visit Instagram Profile](https://www.instagram.com/umisoft.official)
 - **YouTube**: [Umisoft Channel](https://www.youtube.com/@umisoft)  
 - **Patreon**: [patreon.com/umisoft](https://www.patreon.com/umisoft)
 
