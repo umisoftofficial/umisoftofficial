@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, My name is Muhammad Umair</h1>
-<h3 align="center">Full Stack Automation Specialist | AI Driven Solutions</h3>
+<h3 align="center">Full Stack Automation Specialist</h3>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I'm a developer passionate about **automation**, **data scraping**, and building **smart bots** that help businesses grow. With over **500+ bots** developed (including Spotify streamers, Amazon scrapers, LinkedIn tools, and more), I specialize in **undetectable automation** and custom solutions tailored to client needs.
+I'm a developer passionate about **automation**, **data scraping**, and building **smart bots** that help businesses grow. With over **500+ bots** developed (including Spotify and youtube music streamers, Amazon scrapers, LinkedIn tools, Instagram bots and more), I specialize in **undetectable automation** and custom solutions based on the client needs.
 
-Currently, I’m diving into **AI and Machine Learning**, with a goal to integrate intelligent systems into my bots and expand into AI-powered data tools.
+Currently, I’m diving into AI and Machine Learning and specialising in **Data Science**. My goal is to integrate intelligent systems into my bots and expand into AI-powered data tools.
 
 ---
 
@@ -32,23 +32,28 @@ Currently, I’m diving into **AI and Machine Learning**, with a goal to integra
 ---
 
 ### 🤝 Let's Collaborate On
-- Web scraping bots for any website
+- Web scraping and Automation bots for any website
 - AI-integrated tools and dataset generation
 - Subscription-based bot services (Spotify, Amazon, LinkedIn, etc.)
 
 ---
 
-### 📫 Reach Me
-- **Email**: umisoftbots@gmail.com  
+### 📫 Reach out to Me
+- **Whatsapp Chat**: wa.me/ 923000680158
+- **Email**: umisoftbots@gmail.com
+- **Linkedin**: linkedin.com/in/umisoft
+- **Facebook**: facebook.com/umisoftofficial
+- **Instagram**: instagram.com/umisoft.official
 - **YouTube**: [Umisoft Channel](https://www.youtube.com/@umisoft)  
 - **Patreon**: [patreon.com/umisoft](https://www.patreon.com/umisoft)
 
 ---
 
-### ⚡ Fun Fact
-I’ve built bots for Spotify that are smart enough to use Tor for anonymity, and I run a faceless luxury-themed YouTube channel on the side!
+### 📊 Highlights
 
----
+- ✅ Developed over **500+ automation bots** for platforms including Spotify, Amazon, LinkedIn, and Instagram.
+- ✅ Successfully delivered **200+ custom client projects**, tailored to business-specific automation and scraping needs. 
+- ✅ Actively building and scaling tools across **Upwork, Fiverr, Patreon, and YouTube**, serving a global client base.
 
 ### 📊 GitHub Stats
 
@@ -56,5 +61,6 @@ I’ve built bots for Spotify that are smart enough to use Tor for anonymity, an
   <img src="https://github-readme-stats.vercel.app/api?username=umisoftofficial&show_icons=true&theme=tokyonight" alt="Umisoft's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umisoftofficial&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+-->
 
 ---
