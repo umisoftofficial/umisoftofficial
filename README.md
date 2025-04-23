@@ -11,7 +11,7 @@ Currently, I’m diving into AI and Machine Learning and specialising in **Data 
 
 ---
 
-### 🔧 Tech Stack & Tools:
+### Tech Stack & Tools:
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -22,14 +22,14 @@ Currently, I’m diving into AI and Machine Learning and specialising in **Data 
 
 ---
 
-### 🌱 Currently Learning:
+### Currently Learning:
 - Data Science (Machine Learning Algorithms, Deep Learning)
 - Dataset creation & data monetisation
 - Scaling automation through Discord and Patreon
 
 ---
 
-### 🤝 Let's Collaborate On:
+### Let's Collaborate On:
 - Web scraping and Automation bots for any website
 - AI-integrated tools and dataset generation
 - Subscription-based bot services (Spotify, Amazon, LinkedIn, etc.)
@@ -48,7 +48,7 @@ Currently, I’m diving into AI and Machine Learning and specialising in **Data 
 
 ---
 
-### 📊 Highlights
+### Highlights:
 
 - ✅ Developed over **500+ automation bots** for platforms including Spotify, Amazon, LinkedIn, and Instagram.
 - ✅ Successfully delivered **200+ custom client projects**, tailored to business-specific automation and scraping needs. 
