@@ -38,7 +38,7 @@ Currently, I’m diving into AI and Machine Learning and specialising in **Data 
 
 ### 📫 Reach out to Me:
  
-- **WhatsApp Chat**: [Chat on WhatsApp](https://wa.me/923000680158)  
+- **WhatsApp**: [Chat on WhatsApp](https://wa.me/923000680158)  
 - **Email**: [umisofts@gmail.com](mailto:umisofts@gmail.com)  
 - **LinkedIn**: [Visit LinkedIn Profile](https://www.linkedin.com/in/umisoft)  
 - **Facebook**: [Visit Facebook Profile](https://www.facebook.com/umisoftofficial)  
